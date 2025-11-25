@@ -209,48 +209,6 @@ Run:
 npm run dev
 ```
 
----
-
-## 📷 Screenshots
-
-1. **Login Page: User can register, login and reset password.**
-
-   ![](./screenshots/login.png)
-
-2. **Home Page: User can check new releases and  watch trailers.**
-
-   ![](./screenshots/home.png)
-
-3. **Movies Page: User can browse different movies here.**
-
-   ![](./screenshots/allMovies.png)
-4. **Movie Details Page: User can see details of a particular movie including dates of release in theatre.**
-
-   ![](./screenshots/movieDetails.png)
-5. **Seat Layout:User can see seats available for a particular show and book accordingly.**
-
-   ![](./screenshots/seatLayout.png)
-6. **Bookings: User can see their bookings here.**
-
-   ![](./screenshots/bookings.png)
-7. **Search: User can get Recommendation from AI based on the genres or actor names they select. Both manual input or voice interaction**
-
-   ![](./screenshots/aiSearch.png)
-
-8. **Admin Dashboard: Admin can check all dashboard data.**
-
-   ![](./screenshots/adminDashboard.png)
-9. **Add shows: Admin can choose movies,dates and price of shows.**
-
-   ![](./screenshots/addShows.png)
-10. **List Shows: Admin can view all playing shows.**
-
-   ![](./screenshots/ListShows.png)
-11. **List Bookings: Admin can view all user bookings.**
-
-   ![](./screenshots/ListBookings.png)
-
----
 
 ## 💳 Stripe Test Card
 
