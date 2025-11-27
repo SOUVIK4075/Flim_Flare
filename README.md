@@ -246,4 +246,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Made with ❤️ by [Bhola Paul](https://github.com/SOUVIK4075)**
+**Made with ❤️ by [Souvik Khanra](https://github.com/SOUVIK4075)**
